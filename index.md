@@ -2,7 +2,7 @@
 
 My favorite things about CS193:
 
-1.The use of terminal and teaching about how it works
+1. The use of terminal and teaching about how it works
 2. Lack of exams
 3. Flexibility of the class
 4. The helpful TA's
